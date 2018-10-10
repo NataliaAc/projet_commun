@@ -1,1 +1,5 @@
-HELLO WORLD !
+Ceci est un texte.
+
+Ceci est encore un texte.
+
+Ceci est toujours un texte.
