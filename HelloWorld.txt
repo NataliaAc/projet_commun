@@ -1,5 +1,5 @@
 Ceci est un texte.
 
-Bonjour !
+Le texte a été modifié !
 
 Ceci est toujours un texte.
